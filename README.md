@@ -90,7 +90,7 @@ npm install
 
 - (Optional) Create a `.env` file in `/Client` if you want to set a custom backend URL:
   ```
-  VITE_BACKEND_URL=http://localhost:5000
+  VITE_BACKEND_URL=https://arcygen-ai.onrender.com/
   ```
 
 - Start the frontend:
@@ -98,7 +98,7 @@ npm install
   npm run dev
   ```
 
-- Visit [http://localhost:5173](http://localhost:5173) in your browser.
+- Visit [https://arcygen-ai.onrender.com/](https://arcygen-ai.onrender.com/) in your browser.
 
 ---
 
@@ -115,7 +115,7 @@ npm install
 
 ### Base URL
 ```
-http://localhost:4000
+[http://localhost:4000](https://arcygen-ai.onrender.com/)
 ```
 
 ### User Routes
