@@ -98,7 +98,7 @@ npm install
   npm run dev
   ```
 
-- Visit [https://arcygen-ai.onrender.com/](https://arcygen-ai.onrender.com/) in your browser.
+- Visit [https://arcygen-ai-frontend.onrender.com](https://arcygen-ai-frontend.onrender.com) in your browser.
 
 ---
 
@@ -115,7 +115,7 @@ npm install
 
 ### Base URL
 ```
-[http://localhost:4000](https://arcygen-ai.onrender.com/)
+(https://arcygen-ai.onrender.com/)
 ```
 
 ### User Routes
